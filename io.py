@@ -1,3 +1,4 @@
+# image_id = list with the images name
 # IN = input directory
 # OUT = output directory
 
